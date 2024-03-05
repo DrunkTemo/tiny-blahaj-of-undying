@@ -1,3 +1,10 @@
+# Changed view model from hand
+
+less annoying due to smol size, but still pwetty shawk. nothing unusual. recommend to everynyane 2b2t pwpers
+(all what i did is just rummaged through .txt files and changed sizes LOL)
+
+![2024-03-05_13 45 26](https://github.com/DrunkTemo/tiny-blahaj-of-undying/assets/88145656/0c63f1f7-e013-409d-8af7-06bd05f65c15)
+
 # Blåhaj of Undying
 
 This is a client-side version of [Blåhaj](https://modrinth.com/mod/blahaj) by Hibi. This version replaces the totem of undying model and name instead of creating a new item for our beloved Blåhaj, who you can now cuddle even on vanilla servers!
