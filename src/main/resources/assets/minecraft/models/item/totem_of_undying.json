@@ -153,6 +153,11 @@
 			"rotation": [70, -55, 60],
 			"translation": [-3.25, 0.4, 1]
 		},
+        "firstperson_lefthand": {
+            "rotation": [ 15, -87, -5 ],
+            "translation": [ 10, -1, -11 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+		},
 		"ground": {
 			"rotation": [0, 90, 0],
 			"translation": [0, 2, 0],
